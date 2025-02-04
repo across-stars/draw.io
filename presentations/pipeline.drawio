@@ -1134,7 +1134,7 @@
           <mxGeometry x="498.9230769230769" y="2733.5233333333335" width="96.92307692307692" height="52.42999999999999" as="geometry" />
         </mxCell>
         <mxCell id="a_Zyql1XnTKP2Zah2_E7-131" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Pubmed papers (train dataset)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;opacity=30;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="361.5400000000001" y="2517.07" width="258.46" height="216.45" as="geometry" />
+          <mxGeometry x="361.5400000000001" y="2700.84" width="258.46" height="216.45" as="geometry" />
         </mxCell>
         <mxCell id="a_Zyql1XnTKP2Zah2_E7-132" value="2. Mask its leaf and set the target relation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="393.46000000000004" y="2931" width="205" height="30" as="geometry" />
