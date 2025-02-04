@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0.1 Safari/605.1.15" version="26.0.10">
   <diagram name="Page-1" id="-9PNna5isragapNatJbX">
-    <mxGraphModel dx="2668" dy="2168" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3104" dy="2648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1298,17 +1298,17 @@
         <mxCell id="a_Zyql1XnTKP2Zah2_E7-156" value="3. Predict the masked leaf (top k) with the trained GLM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="690" y="2930" width="208.46" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="a_Zyql1XnTKP2Zah2_E7-157" value="Only one token per head and per tail are displayed for simplicity" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="326.4" y="3000" width="293.6" height="30" as="geometry" />
+        <mxCell id="a_Zyql1XnTKP2Zah2_E7-157" value="* Only one token per head and per tail are displayed for simplicity" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="450" y="2610" width="463.6" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a_Zyql1XnTKP2Zah2_E7-158" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="831.23" y="2754" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a_Zyql1XnTKP2Zah2_E7-159" value="4. Extract triples: head + relation + k tails&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="936.25" y="2930" width="170" height="30" as="geometry" />
+          <mxGeometry x="938.25" y="2927.29" width="142.52" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a_Zyql1XnTKP2Zah2_E7-175" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="750" y="2537" width="60" height="72" as="geometry" />
+          <mxGeometry x="1130" y="2767" width="60" height="72" as="geometry" />
         </mxCell>
         <mxCell id="a_Zyql1XnTKP2Zah2_E7-176" value="" style="group" vertex="1" connectable="0" parent="a_Zyql1XnTKP2Zah2_E7-175">
           <mxGeometry width="20" height="60" as="geometry" />
@@ -1372,6 +1372,9 @@
             <mxPoint x="10.000000000000455" y="39" as="sourcePoint" />
             <mxPoint x="10" y="19" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="a_Zyql1XnTKP2Zah2_E7-196" value="5. Reiterate for over heads" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1117.48" y="2927.29" width="142.52" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
