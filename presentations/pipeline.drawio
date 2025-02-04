@@ -1452,7 +1452,7 @@
           <mxGeometry x="-617" y="2794.18" width="38.13" height="37" as="geometry" />
         </mxCell>
         <mxCell id="oZ9-fFztqBULBCeFrlRL-36" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;The gradient will backpropagate from loss to the masked t1.&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-394.37" y="2975.86" width="185" height="80" as="geometry" />
+          <mxGeometry x="-397.37" y="2960.86" width="185" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oZ9-fFztqBULBCeFrlRL-38" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Cross-entropy loss&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-369" y="2881" width="133.75" height="80" as="geometry" />
@@ -1470,7 +1470,7 @@
           <mxGeometry x="-824.13" y="2950.86" width="389.75" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oZ9-fFztqBULBCeFrlRL-47" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;u&gt;Backpropagation path&lt;/u&gt;: loss --&amp;gt; transformer layers --&amp;gt; H-GAT --&amp;gt; input token embeddings.&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1077.57" y="3040" width="725.63" height="80" as="geometry" />
+          <mxGeometry x="-1059.57" y="3021" width="725.63" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
