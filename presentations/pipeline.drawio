@@ -1421,11 +1421,8 @@
         <mxCell id="oZ9-fFztqBULBCeFrlRL-22" value="&lt;font size=&quot;3&quot;&gt;t1&#39;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="-725.13" y="2793" width="38.13" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="oZ9-fFztqBULBCeFrlRL-24" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;If leaf node masked, it contributes to loss&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1160" y="2975.86" width="310" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="oZ9-fFztqBULBCeFrlRL-25" value="&lt;font size=&quot;3&quot;&gt;The gradient will backpropagate from the loss to the masked t1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-795" y="3060" width="470" height="30" as="geometry" />
+        <mxCell id="oZ9-fFztqBULBCeFrlRL-24" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;If leaf node is masked, it contributes to loss&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1177.5" y="2975.86" width="330" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oZ9-fFztqBULBCeFrlRL-26" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Before H-GAT&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1096.12" y="2743.7400000000002" width="140" height="30" as="geometry" />
@@ -1438,14 +1435,14 @@
         </mxCell>
         <mxCell id="oZ9-fFztqBULBCeFrlRL-30" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=14;endSize=10.68;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-484.38" y="2847.7" as="sourcePoint" />
-            <mxPoint x="-314.38" y="2848.48" as="targetPoint" />
+            <mxPoint x="-530" y="2853.72" as="sourcePoint" />
+            <mxPoint x="-408.62" y="2854.86" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oZ9-fFztqBULBCeFrlRL-31" value="&lt;font size=&quot;3&quot;&gt;To transformer&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;layers&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="oZ9-fFztqBULBCeFrlRL-30">
           <mxGeometry x="-0.1402" y="3" relative="1" as="geometry">
-            <mxPoint x="2" y="-10" as="offset" />
+            <mxPoint x="7" y="-23" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oZ9-fFztqBULBCeFrlRL-34" value="&lt;font size=&quot;3&quot;&gt;t2&#39;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
@@ -1455,10 +1452,25 @@
           <mxGeometry x="-617" y="2794.18" width="38.13" height="37" as="geometry" />
         </mxCell>
         <mxCell id="oZ9-fFztqBULBCeFrlRL-36" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;The gradient will backpropagate from loss to the masked t1.&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-300" y="2990" width="185" height="30" as="geometry" />
+          <mxGeometry x="-394.37" y="2975.86" width="185" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oZ9-fFztqBULBCeFrlRL-38" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Cross-entropy loss&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-290" y="2794.95" width="120" height="80" as="geometry" />
+          <mxGeometry x="-369" y="2881" width="133.75" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oZ9-fFztqBULBCeFrlRL-41" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Trasnformer layer&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-368.75" y="2836.6200000000003" width="133.75" height="39.17" as="geometry" />
+        </mxCell>
+        <mxCell id="oZ9-fFztqBULBCeFrlRL-42" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Trasnformer layer&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="2763.3" width="133.75" height="39.17" as="geometry" />
+        </mxCell>
+        <mxCell id="oZ9-fFztqBULBCeFrlRL-43" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;...&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-338.75" y="2802.4700000000003" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oZ9-fFztqBULBCeFrlRL-46" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Every leaf token embedding is fused with relation embedding and entire head tokens embeddings&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-824.13" y="2950.86" width="389.75" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oZ9-fFztqBULBCeFrlRL-47" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;u&gt;Backpropagation path&lt;/u&gt;: loss --&amp;gt; transformer layers --&amp;gt; H-GAT --&amp;gt; input token embeddings.&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1077.57" y="3040" width="725.63" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
