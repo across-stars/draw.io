@@ -1445,7 +1445,7 @@
           <mxGeometry x="-1081.57" y="3021" width="725.63" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4ges4DTi5n9-fc6lLAP--2" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;GLM&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="-1350" y="1490" width="620" height="320" as="geometry" />
+          <mxGeometry x="-1350" y="1490" width="630" height="320" as="geometry" />
         </mxCell>
         <mxCell id="4ges4DTi5n9-fc6lLAP--3" value="&lt;font&gt;Transformer layers&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-1096.51" y="1522.83" width="346.51" height="274.17" as="geometry" />
