@@ -1451,7 +1451,7 @@
           <mxGeometry x="-1096.51" y="1522.83" width="346.51" height="274.17" as="geometry" />
         </mxCell>
         <mxCell id="4ges4DTi5n9-fc6lLAP--25" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-1320" y="1540" width="206" height="203.9" as="geometry" />
+          <mxGeometry x="-1332" y="1540" width="206" height="203.9" as="geometry" />
         </mxCell>
         <mxCell id="4ges4DTi5n9-fc6lLAP--6" value="&lt;font&gt;Graph Node feature&lt;/font&gt;&lt;div&gt;&lt;i&gt;&lt;font&gt;node embeddings&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=16;" vertex="1" parent="4ges4DTi5n9-fc6lLAP--25">
           <mxGeometry width="206" height="203.89999999999992" as="geometry" />
@@ -1515,8 +1515,8 @@
         </mxCell>
         <mxCell id="4ges4DTi5n9-fc6lLAP--24" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=18;endSize=8.89;width=17;fillColor=#fad7ac;strokeColor=#b46504;fontSize=16;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1129" y="1639.41" as="sourcePoint" />
-            <mxPoint x="-1090" y="1639" as="targetPoint" />
+            <mxPoint x="-1138.25" y="1641.45" as="sourcePoint" />
+            <mxPoint x="-1088.25" y="1641.45" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
