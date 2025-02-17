@@ -1453,7 +1453,7 @@
         <mxCell id="4ges4DTi5n9-fc6lLAP--25" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-1332" y="1540" width="206" height="203.9" as="geometry" />
         </mxCell>
-        <mxCell id="4ges4DTi5n9-fc6lLAP--6" value="&lt;font&gt;Graph Node feature&lt;/font&gt;&lt;div&gt;&lt;i&gt;&lt;font&gt;node embeddings&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=16;" parent="4ges4DTi5n9-fc6lLAP--25" vertex="1">
+        <mxCell id="4ges4DTi5n9-fc6lLAP--6" value="&lt;font&gt;Graph Node Feature&lt;/font&gt;&lt;div&gt;&lt;i&gt;&lt;font&gt;node embeddings&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=16;" parent="4ges4DTi5n9-fc6lLAP--25" vertex="1">
           <mxGeometry width="206" height="203.89999999999992" as="geometry" />
         </mxCell>
         <mxCell id="4ges4DTi5n9-fc6lLAP--7" value="&lt;font&gt;[on roots]&lt;/font&gt;&lt;div&gt;&lt;font&gt;&lt;i&gt;token embeddings&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;" parent="4ges4DTi5n9-fc6lLAP--25" vertex="1">
