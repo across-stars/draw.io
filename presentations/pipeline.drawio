@@ -1267,7 +1267,7 @@
         <mxCell id="a_Zyql1XnTKP2Zah2_E7-153" value="PAD" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="142.9976923076922" y="3045.3833333333337" width="96.92307692307692" height="52.42999999999999" as="geometry" />
         </mxCell>
-        <mxCell id="a_Zyql1XnTKP2Zah2_E7-156" value="3. Predict the masked leaf (top k) with the trained GLM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="a_Zyql1XnTKP2Zah2_E7-156" value="3. Predict the masked leaf (top &lt;i&gt;k&lt;/i&gt;) with the trained GLM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="98.69000000000005" y="3242.86" width="208.46" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a_Zyql1XnTKP2Zah2_E7-157" value="* Only one token per head and per tail are displayed for simplicity" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
