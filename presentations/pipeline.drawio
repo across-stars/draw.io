@@ -1441,7 +1441,7 @@
         <mxCell id="oZ9-fFztqBULBCeFrlRL-46" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Every leaf token embedding is fused with relation embedding and entire head token embeddings&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-817.13" y="2950.86" width="377.13" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="oZ9-fFztqBULBCeFrlRL-47" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;u&gt;Backpropagation path&lt;/u&gt;: loss --&amp;gt; transformer layers --&amp;gt; H-GAT --&amp;gt; input token embeddings.&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="oZ9-fFztqBULBCeFrlRL-47" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;u&gt;Backpropagation path&lt;/u&gt;: loss → transformer layers → H-GAT → input token embeddings.&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1081.57" y="3021" width="725.63" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4ges4DTi5n9-fc6lLAP--2" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;GLM&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" parent="1" vertex="1">
