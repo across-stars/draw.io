@@ -1276,7 +1276,7 @@
         <mxCell id="a_Zyql1XnTKP2Zah2_E7-158" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="239.92000000000007" y="3066.86" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="a_Zyql1XnTKP2Zah2_E7-159" value="4. Extract triples: head + relation + k tails&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="a_Zyql1XnTKP2Zah2_E7-159" value="4. Extract triples: head + relation + &lt;i&gt;k&lt;/i&gt; tails&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="346.94000000000005" y="3240.15" width="142.52" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a_Zyql1XnTKP2Zah2_E7-175" value="" style="group" parent="1" vertex="1" connectable="0">
