@@ -1699,7 +1699,7 @@
           <mxGeometry x="-760" y="1617.22" width="270" height="206" as="geometry" />
         </mxCell>
         <mxCell id="Ud-7baU3wdJUWmd-jGZy-60" value="&lt;b style=&quot;color: rgb(0, 0, 255);&quot;&gt;Intemediate KG&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-737.7500000000002" y="1431.75" width="172.5" height="65.13" as="geometry" />
+          <mxGeometry x="-716.7500000000002" y="1430.75" width="172.5" height="65.13" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
