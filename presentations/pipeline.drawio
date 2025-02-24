@@ -1538,10 +1538,13 @@
           <mxGeometry x="-1070" y="1432.12" width="827.5" height="364.88" as="geometry" />
         </mxCell>
         <mxCell id="Ud-7baU3wdJUWmd-jGZy-5" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-688.38" y="1604.6100000000001" width="151.51" height="218.78" as="geometry" />
+          <mxGeometry x="-688.38" y="1604.6100000000001" width="159.99" height="218.78" as="geometry" />
         </mxCell>
         <mxCell id="Ud-7baU3wdJUWmd-jGZy-6" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="Ud-7baU3wdJUWmd-jGZy-5" vertex="1">
           <mxGeometry x="-250.08" y="5.87" width="44.13" height="44.13" as="geometry" />
+        </mxCell>
+        <mxCell id="Ud-7baU3wdJUWmd-jGZy-47" value="&lt;span&gt;&lt;b&gt;2nd step:&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span&gt;&lt;b&gt;Cleaning out &quot;bad&quot; nodes&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span&gt;1) Remove nodes &amp;lt; 1 token.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;2) Remove nodes without alphabetical symbols.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;3. Remove &quot;repetitive tails&quot;.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=none;" parent="Ud-7baU3wdJUWmd-jGZy-5" vertex="1">
+          <mxGeometry x="-70.00999999999999" y="33" width="230" height="152.78" as="geometry" />
         </mxCell>
         <mxCell id="Ud-7baU3wdJUWmd-jGZy-7" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-909.5699999999999" y="1486.88" width="50" height="80" as="geometry" />
@@ -1694,9 +1697,6 @@
         </mxCell>
         <mxCell id="Ud-7baU3wdJUWmd-jGZy-57" value="&lt;span&gt;&lt;b&gt;Result:&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;b&gt;Seed KG&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;After cleaning, only 26 unique relations out of 32 remain in the seed KG.&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="-477.5" y="1650" width="187.25" height="128" as="geometry" />
-        </mxCell>
-        <mxCell id="Ud-7baU3wdJUWmd-jGZy-47" value="&lt;span&gt;&lt;b&gt;2nd step:&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span&gt;&lt;b&gt;Cleaning out &quot;bad&quot; nodes&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span&gt;1) Remove nodes &amp;lt; 1 token.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;2) Remove nodes without alphabetical symbols.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;3. Remove &quot;repetitive tails&quot;.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-760" y="1617.22" width="270" height="206" as="geometry" />
         </mxCell>
         <mxCell id="Ud-7baU3wdJUWmd-jGZy-60" value="&lt;b style=&quot;color: rgb(0, 0, 255);&quot;&gt;Intemediate KG&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="-716.7500000000002" y="1430.75" width="172.5" height="65.13" as="geometry" />
