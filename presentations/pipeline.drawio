@@ -1917,9 +1917,6 @@
         <mxCell id="SsXhsMrXVhdGwZ_tL49M-90" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 22px;&quot;&gt;...&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="SsXhsMrXVhdGwZ_tL49M-101">
           <mxGeometry x="691.0846799116998" y="72.28625954198473" width="54.045801526717554" height="54.045801526717554" as="geometry" />
         </mxCell>
-        <mxCell id="SsXhsMrXVhdGwZ_tL49M-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="SsXhsMrXVhdGwZ_tL49M-101" source="SsXhsMrXVhdGwZ_tL49M-91" target="SsXhsMrXVhdGwZ_tL49M-92">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="SsXhsMrXVhdGwZ_tL49M-91" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 22px;&quot;&gt;142&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="SsXhsMrXVhdGwZ_tL49M-101">
           <mxGeometry x="772.8072700515086" y="72.28625954198473" width="54.045801526717554" height="54.045801526717554" as="geometry" />
         </mxCell>
