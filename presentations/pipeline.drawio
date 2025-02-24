@@ -1983,6 +1983,9 @@
         <mxCell id="SsXhsMrXVhdGwZ_tL49M-100" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;128 roots&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="SsXhsMrXVhdGwZ_tL49M-101">
           <mxGeometry x="133.448182487123" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="SsXhsMrXVhdGwZ_tL49M-106" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;diabetes&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="3011.86" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
