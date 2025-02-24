@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0.1 Safari/605.1.15" version="26.0.15">
   <diagram name="Page-1" id="-9PNna5isragapNatJbX">
-    <mxGraphModel dx="4409" dy="2182" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4730" dy="2642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1695,40 +1695,40 @@
         <mxCell id="Ud-7baU3wdJUWmd-jGZy-57" value="&lt;span&gt;&lt;b&gt;Result:&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;b&gt;Seed KG&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;After cleaning, only 26 unique relations out of 32 remain in the seed KG.&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="-477.5" y="1650" width="187.25" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="Ud-7baU3wdJUWmd-jGZy-47" value="&lt;span&gt;&lt;b&gt;2nd step:&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span&gt;&lt;b&gt;Cleaning out bad nodes&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span&gt;1) Remove nodes &amp;lt; 1 token and &amp;gt; 7 tokens.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;2) Remove nodes without alphabetical symbols.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;3. Remove &quot;repetitive tails&quot;.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="Ud-7baU3wdJUWmd-jGZy-47" value="&lt;span&gt;&lt;b&gt;2nd step:&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span&gt;&lt;b&gt;Cleaning out &quot;bad&quot; nodes&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span&gt;1) Remove nodes &amp;lt; 1 token.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;2) Remove nodes without alphabetical symbols.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;3. Remove &quot;repetitive tails&quot;.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="-760" y="1617.22" width="270" height="206" as="geometry" />
         </mxCell>
         <mxCell id="Ud-7baU3wdJUWmd-jGZy-60" value="&lt;b style=&quot;color: rgb(0, 0, 255);&quot;&gt;Intemediate KG&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="-716.7500000000002" y="1430.75" width="172.5" height="65.13" as="geometry" />
         </mxCell>
-        <mxCell id="0-fqWGQakcFfnSGzPI7K-1" value="Download" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#10739E;strokeColor=none;fontSize=17;fontColor=#FFFFFF;fontStyle=1;align=center;rounded=0;" vertex="1" parent="1">
+        <mxCell id="0-fqWGQakcFfnSGzPI7K-1" value="Download" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#10739E;strokeColor=none;fontSize=17;fontColor=#FFFFFF;fontStyle=1;align=center;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="620" y="2152" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0-fqWGQakcFfnSGzPI7K-2" value="Prepare chain graphs" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#F2931E;strokeColor=none;fontSize=17;fontColor=#FFFFFF;fontStyle=1;align=center;rounded=0;" vertex="1" parent="1">
+        <mxCell id="0-fqWGQakcFfnSGzPI7K-2" value="Prepare chain graphs" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#F2931E;strokeColor=none;fontSize=17;fontColor=#FFFFFF;fontStyle=1;align=center;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="820" y="2152" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0-fqWGQakcFfnSGzPI7K-3" value="Inject seed KG" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#AE4132;strokeColor=none;fontSize=17;fontColor=#FFFFFF;fontStyle=1;align=center;rounded=0;" vertex="1" parent="1">
+        <mxCell id="0-fqWGQakcFfnSGzPI7K-3" value="Inject seed KG" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#AE4132;strokeColor=none;fontSize=17;fontColor=#FFFFFF;fontStyle=1;align=center;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1020" y="2152" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0-fqWGQakcFfnSGzPI7K-4" value="Preprocess" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#23445D;strokeColor=none;fontSize=17;fontColor=#FFFFFF;fontStyle=1;align=center;rounded=0;" vertex="1" parent="1">
+        <mxCell id="0-fqWGQakcFfnSGzPI7K-4" value="Preprocess" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#23445D;strokeColor=none;fontSize=17;fontColor=#FFFFFF;fontStyle=1;align=center;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1220" y="2152" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0-fqWGQakcFfnSGzPI7K-10" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;PubMed papers&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="0-fqWGQakcFfnSGzPI7K-10" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;PubMed papers&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="750" y="2233.96" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0-fqWGQakcFfnSGzPI7K-11" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="0-fqWGQakcFfnSGzPI7K-11" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1085" y="2233.96" width="261.25" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0-fqWGQakcFfnSGzPI7K-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;UMLS: seed KG&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="0-fqWGQakcFfnSGzPI7K-11">
+        <mxCell id="0-fqWGQakcFfnSGzPI7K-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;UMLS: seed KG&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="0-fqWGQakcFfnSGzPI7K-11" vertex="1">
           <mxGeometry x="131.25" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0-fqWGQakcFfnSGzPI7K-13" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;PubMed papers&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="0-fqWGQakcFfnSGzPI7K-11">
+        <mxCell id="0-fqWGQakcFfnSGzPI7K-13" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;PubMed papers&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="0-fqWGQakcFfnSGzPI7K-11" vertex="1">
           <mxGeometry width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0-fqWGQakcFfnSGzPI7K-14" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=90;spacing=4;strokeWidth=2;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="0-fqWGQakcFfnSGzPI7K-14" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=90;spacing=4;strokeWidth=2;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="804.95" y="2010" width="20.03" height="400.78" as="geometry" />
         </mxCell>
-        <mxCell id="0-fqWGQakcFfnSGzPI7K-15" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=90;spacing=4;strokeWidth=2;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="0-fqWGQakcFfnSGzPI7K-15" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=90;spacing=4;strokeWidth=2;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="1204.5" y="2010" width="20.03" height="400.78" as="geometry" />
         </mxCell>
       </root>
