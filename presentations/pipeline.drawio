@@ -2387,10 +2387,10 @@
         <mxCell id="2wFVkmJCSduS42lfyFsh-12" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;3&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" parent="X926zIB6ZiUgM03Uij1o-3" vertex="1">
           <mxGeometry x="1460" y="3311.71" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1ugZT0aVr3q7lU4rsePo-12" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;II. Visual representation of the encoding&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="X926zIB6ZiUgM03Uij1o-3" vertex="1">
+        <mxCell id="1ugZT0aVr3q7lU4rsePo-12" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;II. Visual representation of the encoding&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" parent="X926zIB6ZiUgM03Uij1o-3" vertex="1">
           <mxGeometry x="1472" y="3242" width="340" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1ugZT0aVr3q7lU4rsePo-11" value="&lt;font style=&quot;line-height: 120%; font-size: 18px;&quot;&gt;I. Chain graph encoding in the training data&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="X926zIB6ZiUgM03Uij1o-3" vertex="1">
+        <mxCell id="1ugZT0aVr3q7lU4rsePo-11" value="&lt;font style=&quot;line-height: 120%; font-size: 18px;&quot;&gt;I. Chain graph encoding in the training data&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" parent="X926zIB6ZiUgM03Uij1o-3" vertex="1">
           <mxGeometry x="883" y="3654" width="370" height="30" as="geometry" />
         </mxCell>
       </root>
