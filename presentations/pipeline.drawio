@@ -2305,7 +2305,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="v_Q-VMhLjUDijE86i7e9" name="Triple tail">
-    <mxGraphModel dx="886" dy="1295" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1063" dy="1554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" style="" parent="0" />
@@ -2645,7 +2645,7 @@
         <mxCell id="GrM7BeyOkWG6GWEuQyL9-77" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#FFE6CC;sketch=1;opacity=40;" parent="1" vertex="1">
           <mxGeometry x="80" y="646" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6zabjnF1b5xwHRzZaMu8-3" value="layer 1" style="locked=1;" parent="0" />
+        <mxCell id="6zabjnF1b5xwHRzZaMu8-3" value="layer 1" style="" parent="0" />
         <mxCell id="6zabjnF1b5xwHRzZaMu8-1" value="&lt;font face=&quot;Tahoma&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;...we found that the altered metabolites and genes in the liver were enriched in&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt; 9&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;m&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;etabolic&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt; pathways&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;including glycerophospholipid, arachidonic acid, histidine and linoleate. thus, this study revealed important age ‐ related metabolites...&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;opacity=50;strokeWidth=5;" parent="6zabjnF1b5xwHRzZaMu8-3" vertex="1">
           <mxGeometry x="194" y="303" width="506" height="60" as="geometry" />
         </mxCell>
@@ -2661,7 +2661,7 @@
         <mxCell id="GrM7BeyOkWG6GWEuQyL9-92" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;score&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="6zabjnF1b5xwHRzZaMu8-3" vertex="1">
           <mxGeometry x="710" y="630" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6zabjnF1b5xwHRzZaMu8-4" value="layer 2" style="locked=1;" parent="0" />
+        <mxCell id="6zabjnF1b5xwHRzZaMu8-4" value="layer 2" style="" parent="0" />
         <mxCell id="6zabjnF1b5xwHRzZaMu8-19" value="" style="group" parent="6zabjnF1b5xwHRzZaMu8-4" vertex="1" connectable="0">
           <mxGeometry x="525" y="672" width="171" height="32.5" as="geometry" />
         </mxCell>
@@ -2701,7 +2701,7 @@
         <mxCell id="6zabjnF1b5xwHRzZaMu8-37" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=none;opacity=60;" parent="6zabjnF1b5xwHRzZaMu8-35" vertex="1">
           <mxGeometry y="16.5" width="147" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="6zabjnF1b5xwHRzZaMu8-5" value="text layer" style="locked=1;" parent="0" />
+        <mxCell id="6zabjnF1b5xwHRzZaMu8-5" value="text layer" style="" parent="0" />
         <mxCell id="6zabjnF1b5xwHRzZaMu8-13" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;triple 1&lt;/b&gt;:&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;lt; metabolic pathways, has_part,&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;fatty acid metabolism &amp;gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="6zabjnF1b5xwHRzZaMu8-5" vertex="1">
           <mxGeometry x="82" y="578" width="210" height="70" as="geometry" />
         </mxCell>
