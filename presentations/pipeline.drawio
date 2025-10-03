@@ -4309,7 +4309,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="oX4Bi7NYyCVEqy2kXIbt" name="KG_example">
-    <mxGraphModel dx="1243" dy="1495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="591" dy="1495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4321,7 +4321,7 @@
             <mxPoint x="1" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7OuUCFNPJPqSet5-cqCe-1" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;AMPK&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="7OuUCFNPJPqSet5-cqCe-1" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;AMPK&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="280" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7OuUCFNPJPqSet5-cqCe-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;sourcePerimeterSpacing=0;targetPerimeterSpacing=5;" parent="1" source="7OuUCFNPJPqSet5-cqCe-3" target="7OuUCFNPJPqSet5-cqCe-1" edge="1">
@@ -4340,7 +4340,7 @@
             <mxPoint x="-10" y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7OuUCFNPJPqSet5-cqCe-3" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Metformin&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="7OuUCFNPJPqSet5-cqCe-3" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Metformin&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="365" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7OuUCFNPJPqSet5-cqCe-19" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;sourcePerimeterSpacing=0;targetPerimeterSpacing=5;startArrow=classic;startFill=1;" parent="1" source="7OuUCFNPJPqSet5-cqCe-4" target="7OuUCFNPJPqSet5-cqCe-5" edge="1">
@@ -4365,7 +4365,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7OuUCFNPJPqSet5-cqCe-8" value="&lt;div&gt;&lt;span&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Increased hepatic&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;span&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Gluconeogenesis&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="7OuUCFNPJPqSet5-cqCe-8" value="&lt;div&gt;&lt;span&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Increased hepatic&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;span&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Gluconeogenesis&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="380" y="490" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
