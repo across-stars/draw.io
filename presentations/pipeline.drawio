@@ -1709,7 +1709,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6zabjnF1b5xwHRzZaMu8-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB570;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="329.1" y="312.5" width="53.9" height="15" as="geometry" />
+          <mxGeometry x="332.1" y="312.5" width="53.9" height="15" as="geometry" />
         </mxCell>
         <mxCell id="6zabjnF1b5xwHRzZaMu8-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="501" y="422" width="46" height="15" as="geometry" />
@@ -1735,6 +1735,12 @@
         </mxCell>
         <mxCell id="GrM7BeyOkWG6GWEuQyL9-92" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;score&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="6zabjnF1b5xwHRzZaMu8-3" vertex="1">
           <mxGeometry x="710" y="630" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eEJJp5jXIMtrpdCuYRap-117" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://upload.wikimedia.org/wikipedia/commons/6/69/Qwen_logo.svg;" vertex="1" parent="6zabjnF1b5xwHRzZaMu8-3">
+          <mxGeometry x="532" y="764.84" width="53.08" height="53.08" as="geometry" />
+        </mxCell>
+        <mxCell id="eEJJp5jXIMtrpdCuYRap-120" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=19.62;dy=16;size=5;boundedLbl=1;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=1;opacity=80;fontColor=#333333;" vertex="1" parent="6zabjnF1b5xwHRzZaMu8-3">
+          <mxGeometry x="581" y="753.99" width="163" height="56.01" as="geometry" />
         </mxCell>
         <mxCell id="6zabjnF1b5xwHRzZaMu8-4" value="layer 2" style="" parent="0" />
         <mxCell id="6zabjnF1b5xwHRzZaMu8-19" value="" style="group" parent="6zabjnF1b5xwHRzZaMu8-4" vertex="1" connectable="0">
@@ -1795,7 +1801,7 @@
         <mxCell id="GrM7BeyOkWG6GWEuQyL9-45" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Trained&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;GraphMERT&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="6zabjnF1b5xwHRzZaMu8-5" vertex="1">
           <mxGeometry x="406" y="451" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="6zabjnF1b5xwHRzZaMu8-1" value="&lt;font face=&quot;Tahoma&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;among people with diabetes, .. 5% of all diabetic patients had adequate glycemic control, respectively. in the multivariable logistic regression analysis, there was a significant relationship between female gender, age over 40, living in the urban area, being in the third wealth quintile and having health insurance with diabetes prevalence...&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;opacity=50;strokeWidth=5;" parent="6zabjnF1b5xwHRzZaMu8-5" vertex="1">
+        <mxCell id="6zabjnF1b5xwHRzZaMu8-1" value="&lt;font face=&quot;Tahoma&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;among people with diabetes, .. 5% of all diabetic patients had adequate glycemic control, respectively. in the multivariable logistic regression analysis, there was a significant relationship between female gender, age over 40, living in the &lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;urban&lt;/span&gt; &lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;area&lt;/span&gt;, being in the third wealth quintile and having health insurance with diabetes prevalence...&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;opacity=50;strokeWidth=5;" parent="6zabjnF1b5xwHRzZaMu8-5" vertex="1">
           <mxGeometry x="205" y="309" width="566" height="68" as="geometry" />
         </mxCell>
         <mxCell id="6zabjnF1b5xwHRzZaMu8-10" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;system, structure, endocrine, &lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;digestive&lt;/span&gt;, health, of, diabetes, 2, ii, metabolic, function, conditions, ,, gastrointestinal, condition, heart, intestinal, type, hypertension, underlying&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;opacity=0;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="6zabjnF1b5xwHRzZaMu8-5" vertex="1">
@@ -1809,6 +1815,9 @@
         </mxCell>
         <mxCell id="eEJJp5jXIMtrpdCuYRap-113" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;lt; diabetes,&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;has_finding_site,&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;endocrine system&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=1;" vertex="1" parent="6zabjnF1b5xwHRzZaMu8-5">
           <mxGeometry x="121" y="713" width="260" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="eEJJp5jXIMtrpdCuYRap-114" value="&lt;div style=&quot;&quot;&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font&gt;&lt;font&gt;&amp;lt; diabetes,&amp;nbsp;&lt;/font&gt;&lt;font&gt;has_finding_site,&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;urban area&lt;/span&gt;&amp;gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=1;" vertex="1" parent="6zabjnF1b5xwHRzZaMu8-5">
+          <mxGeometry x="578" y="759" width="166" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
