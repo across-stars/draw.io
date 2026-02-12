@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15" version="29.2.9" pages="6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15" version="29.3.4" pages="6">
   <diagram name="chain graphs" id="-9PNna5isragapNatJbX">
     <mxGraphModel dx="2546" dy="-1169" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2534,7 +2534,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="S3Pj7Ql2SgfdJJgn9Bjg" name="methodology">
-    <mxGraphModel dx="1283" dy="1530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1747" dy="1550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="RYYb0H8MJ-SYUvIuQwgD-1" parent="0" style="" value="background" />
@@ -2723,9 +2723,6 @@
         </mxCell>
         <mxCell id="jvZDri4h8nGFtC4l0P7E-18" parent="RYYb0H8MJ-SYUvIuQwgD-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=3;fontSize=14;" value="&lt;font&gt;Training dataset: high-quality texts&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="100" x="110" y="1250" as="geometry" />
-        </mxCell>
-        <mxCell id="jvZDri4h8nGFtC4l0P7E-19" edge="1" parent="RYYb0H8MJ-SYUvIuQwgD-1" source="jvZDri4h8nGFtC4l0P7E-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;" target="jvZDri4h8nGFtC4l0P7E-3">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jvZDri4h8nGFtC4l0P7E-20" parent="RYYb0H8MJ-SYUvIuQwgD-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=3;fontSize=14;" value="&lt;font&gt;Seed KG&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="80" x="388" y="1340" as="geometry" />
