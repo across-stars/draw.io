@@ -3698,7 +3698,7 @@
           <mxGeometry height="37" width="107" x="749" y="1262" as="geometry" />
         </mxCell>
         <mxCell id="jvZDri4h8nGFtC4l0P7E-34" parent="8Ev9AiVoF-v9N4juQOcV-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=15;" value="&lt;div&gt;&lt;span&gt;llm_helper_utils/&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;entity_discovery/&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="213.57999999999998" y="1377" as="geometry" />
+          <mxGeometry height="30" width="120" x="200" y="1377" as="geometry" />
         </mxCell>
         <mxCell id="jvZDri4h8nGFtC4l0P7E-35" parent="8Ev9AiVoF-v9N4juQOcV-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=15;" value="&lt;div&gt;utils/&lt;/div&gt;seed_kg_injection_algorithm.ipynb" vertex="1">
           <mxGeometry height="42" width="206" x="316" y="1464" as="geometry" />
