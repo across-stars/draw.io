@@ -2703,6 +2703,9 @@
         <mxCell id="jvZDri4h8nGFtC4l0P7E-18" parent="RYYb0H8MJ-SYUvIuQwgD-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=3;fontSize=14;" value="&lt;font&gt;Training dataset: high-quality texts&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="100" x="80" y="1307" as="geometry" />
         </mxCell>
+        <mxCell id="TaHBqY9r01LbKmiNGbDn-28" edge="1" parent="RYYb0H8MJ-SYUvIuQwgD-1" source="jvZDri4h8nGFtC4l0P7E-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="jvZDri4h8nGFtC4l0P7E-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jvZDri4h8nGFtC4l0P7E-20" parent="RYYb0H8MJ-SYUvIuQwgD-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=3;fontSize=14;" value="&lt;font&gt;Seed KG&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="80" x="365" y="1417" as="geometry" />
         </mxCell>
@@ -3521,9 +3524,6 @@
         <mxCell id="TaHBqY9r01LbKmiNGbDn-8" parent="0efcmvMDio_rifdjHM-d-15" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=15;" value="&lt;div&gt;&lt;i&gt;Can be a custom source&lt;/i&gt;.&lt;br&gt;&lt;/div&gt;&lt;div&gt;For pubmed, use&lt;/div&gt;&lt;div&gt;create_dataset_from_pubmed&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="200" x="65" y="1190" as="geometry" />
         </mxCell>
-        <mxCell id="TaHBqY9r01LbKmiNGbDn-9" parent="0efcmvMDio_rifdjHM-d-15" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=15;" value="&lt;div&gt;&lt;i&gt;Can be a custom source&lt;/i&gt;.&lt;br&gt;&lt;/div&gt;&lt;div&gt;For UMLS, use umls_mapping&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="170" x="326" y="1239" as="geometry" />
-        </mxCell>
         <mxCell id="TaHBqY9r01LbKmiNGbDn-13" parent="0efcmvMDio_rifdjHM-d-15" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=15;" value="umls_mapping/&lt;div&gt;filter_tails.py&lt;/div&gt;" vertex="1">
           <mxGeometry height="37" width="107" x="885" y="1262" as="geometry" />
         </mxCell>
@@ -3554,7 +3554,7 @@
         <mxCell id="TaHBqY9r01LbKmiNGbDn-24" parent="0efcmvMDio_rifdjHM-d-15" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;1. run_tokenization.py&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;2. run_dataset_preprocessing.py&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="260" x="80" y="1267" as="geometry" />
         </mxCell>
-        <mxCell id="8Ev9AiVoF-v9N4juQOcV-7" parent="0" style="locked=0;" value="captions" />
+        <mxCell id="8Ev9AiVoF-v9N4juQOcV-7" parent="0" style="locked=1;" value="captions" />
         <mxCell id="8Ev9AiVoF-v9N4juQOcV-8" parent="8Ev9AiVoF-v9N4juQOcV-7" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" value="I(c)" vertex="1">
           <mxGeometry height="30" width="30" x="349" y="70" as="geometry" />
         </mxCell>
@@ -3717,6 +3717,9 @@
         </mxCell>
         <mxCell id="jvZDri4h8nGFtC4l0P7E-28" parent="8Ev9AiVoF-v9N4juQOcV-7" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" value="&lt;font&gt;Embedding-based step&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="144" x="952" y="1411" as="geometry" />
+        </mxCell>
+        <mxCell id="TaHBqY9r01LbKmiNGbDn-9" parent="8Ev9AiVoF-v9N4juQOcV-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=15;" value="&lt;div&gt;&lt;i&gt;Can be a custom source&lt;/i&gt;.&lt;br&gt;&lt;/div&gt;&lt;div&gt;For UMLS, use umls_mapping&lt;/div&gt;" vertex="1">
+          <mxGeometry height="61" width="170" x="326" y="1239" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
