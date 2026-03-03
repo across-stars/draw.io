@@ -3557,7 +3557,7 @@
         <mxCell id="TaHBqY9r01LbKmiNGbDn-24" parent="0efcmvMDio_rifdjHM-d-15" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;1. run_tokenization.py&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;2. run_dataset_preprocessing.py&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="260" x="80" y="1267" as="geometry" />
         </mxCell>
-        <mxCell id="8Ev9AiVoF-v9N4juQOcV-7" parent="0" style="locked=1;" value="captions" />
+        <mxCell id="8Ev9AiVoF-v9N4juQOcV-7" parent="0" style="locked=0;" value="captions" />
         <mxCell id="8Ev9AiVoF-v9N4juQOcV-8" parent="8Ev9AiVoF-v9N4juQOcV-7" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" value="I(c)" vertex="1">
           <mxGeometry height="30" width="30" x="349" y="70" as="geometry" />
         </mxCell>
